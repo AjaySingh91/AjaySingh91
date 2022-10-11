@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AjaySingh91
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python ,Android development
+- 🌱 I’m currently learning Android development
 - 💞️ I’m looking to collaborate on Android development
 - 📫 How to reach me ajaysingh002001@gmail.com
 
